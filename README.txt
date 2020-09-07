@@ -1,0 +1,1 @@
+Dikarenakan adanya perjanjian dengan PT Telekomunikasi Indonesia, Tbk, bahwa untuk hasil dan source program web portal yang dibuat tidak boleh diperlihatkan pada publik, maka saya hanya menampilkan Laporan Kerja Praktik yang berisi garis besar fungsionalitas yang terdapat pada web portal yang dikembangkan.
